@@ -1,7 +1,8 @@
 ﻿# ApexPlanet Cybersecurity & Ethical Hacking Internship
 
-Repository structure for tracking deliverables across all 5 tasks.
+This repository contains all task deliverables, documentation, scripts, and notes completed during the ApexPlanet Cybersecurity Internship.
 
+## Tasks Overview
 - **Task-1:** Foundations of Cybersecurity & Environment Setup
 - **Task-2:** Network Security & Scanning
 - **Task-3:** Web Application Security
