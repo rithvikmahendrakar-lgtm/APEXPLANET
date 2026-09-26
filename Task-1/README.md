@@ -1,7 +1,7 @@
 ﻿# Task-1: Foundations of Cybersecurity & Environment Setup
 
 ## Overview
-This directory contains the deliverables and documentation for **Task-1** of the ApexPlanet Cybersecurity & Ethical Hacking Internship[cite: 1]. It covers core cybersecurity principles, lab setup, Linux CLI navigation, networking basics, and cryptography fundamentals[cite: 1].
+This directory contains deliverables for **Task-1** of the ApexPlanet Cybersecurity & Ethical Hacking Internship. It covers core cybersecurity principles, lab setup, Linux CLI navigation, networking basics, and cryptography fundamentals[cite: 1].
 
 ---
 
